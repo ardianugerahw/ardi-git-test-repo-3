@@ -1,0 +1,5 @@
+daftar pedagang
+-a
+-b
+-c
+-d
