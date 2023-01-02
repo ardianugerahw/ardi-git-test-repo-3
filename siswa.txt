@@ -1,0 +1,5 @@
+daftar siswa
+-i
+-j
+-k
+-l
